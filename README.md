@@ -1,5 +1,5 @@
 
-# 📊 Trade Intelligence: Import Trends by Commodity Level
+# 📊 Trade Intelligence: Import Trends by Commodity Level – Data Analysis using Power BI
 
 ## 📌 Project Overview
 
